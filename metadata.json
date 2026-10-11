@@ -1,0 +1,7 @@
+{
+  "name": "CrowdFood: Crowdshipping Delivery",
+  "description": "A food delivery platform optimized with crowdshipping matching and third-party fallback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
